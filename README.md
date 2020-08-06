@@ -13,8 +13,8 @@
 
 **Hi, I'm Paul**
 
--   :mortar_board: Currently studying a Multimedia degree in the Universitat Oberta de Catalunya
--   😄: Fan of React, wanting to test GraphQL 
+-   🎓 Currently studying a Multimedia degree in the Universitat Oberta de Catalunya
+-   😄 Fan of React, wanting to test GraphQL 
 
 [![Discord](https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/147882388347682816)
 [![Telegram](https://img.shields.io/badge/-telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paulqk3)
