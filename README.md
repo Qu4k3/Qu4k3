@@ -70,4 +70,7 @@
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=ffffff)](https://github.com/bitwarden/browser)
 [![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=ffffff)](https://github.com/strapi/strapi)
+[![qBittorrent](https://img.shields.io/badge/-qBittorrent-2f67ba?style=flat&logo=qBittorrent&logoColor=ffffff)](https://github.com/qbittorrent/qBittorrent)
+
+
 
