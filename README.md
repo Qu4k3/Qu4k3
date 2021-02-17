@@ -14,7 +14,7 @@
 **Hi, I'm Paul**
 
 -   🎓 Currently studying a Multimedia degree in the Universitat Oberta de Catalunya
--   😄 Fan of React, wanting to test GraphQL 
+-   😄 Fan of Next.js, wanting to test GraphQL 
 
 [![Discord](https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/147882388347682816)
 [![Telegram](https://img.shields.io/badge/-telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paulqk3)
@@ -71,7 +71,7 @@
 **Some of my favorite open source projects**
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=ffffff)](https://github.com/bitwarden/browser)
-[![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=ffffff)](https://github.com/strapi/strapi)
+[![Directus](https://img.shields.io/badge/-Directus-263238?style=flat&logo=directus&logoColor=ffffff)](https://github.com/directus/directus)
 [![qBittorrent](https://img.shields.io/badge/-qBittorrent-2f67ba?style=flat&logo=qBittorrent&logoColor=ffffff)](https://github.com/qbittorrent/qBittorrent)
 
 
