@@ -38,17 +38,15 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=Wordpress&logoColor=FFFFFF)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)
 
 
 **Languages I have used**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 <!--
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)
