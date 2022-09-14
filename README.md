@@ -13,7 +13,6 @@
 
 **Hi, I'm Paul**
 
--   🎓 Currently studying a Multimedia degree in the Universitat Oberta de Catalunya
 -   😄 Fan of Next.js
 
 [![Discord](https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/147882388347682816)
