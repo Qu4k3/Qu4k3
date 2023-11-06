@@ -1,4 +1,4 @@
-### Hey! ༼ ◕.◕ ༽つ
+Hey! ༼ ◕.◕ ༽つ
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,15 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 
-**Hi, I'm Paul**
-
--   😄 Fan of Next.js
+**I'm Paul, big fan of Next.js**
 
 [![Discord](https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/147882388347682816)
-[![Telegram](https://img.shields.io/badge/-telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paulqk3)
-[![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.guillamon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulguillamon/)
-[![qu4k3.com](https://img.shields.io/badge/-qu4k3.com-000000?style=for-the-badge&logo=react&logoColor=white)](https://qu4k3.com/)
+<!--[![qu4k3.com](https://img.shields.io/badge/-qu4k3.com-000000?style=for-the-badge&logo=react&logoColor=white)](https://qu4k3.com/)-->
 
 
 **Some of my favorite open source projects**
