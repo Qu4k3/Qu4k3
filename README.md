@@ -11,7 +11,7 @@ Hey! ༼ ◕.◕ ༽つ
 - ⚡ Fun fact: ...
 -->
 
-**I'm Paul, big fan of Next.js**
+**I'm Paul, big fan of Next.js an Expo!**
 
 [![Discord](https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/147882388347682816)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulguillamon/)
