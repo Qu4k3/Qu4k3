@@ -1,27 +1,34 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=C21360&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Paul+Guillamón;Web+Developer+%7C+Designer+%7C+Product+Builder" alt="Animated name banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C21360&center=true&vCenter=true&width=900&lines=Hey!+༼ ◕.◕ ༽つ++I'm+Paul+😃😎😋;Designing+useful+digital+products;Front-end+Developer+%7C+Designer+%7C+Product+Builder" alt="Paul Guillamón banner" />
 </div>
 
 <h1 align="center">Paul Guillamón</h1>
-<h3 align="center">Product-minded web developer crafting useful digital experiences.</h3>
+<h3 align="center">I design and build digital experiences that are clear, useful, and genuinely well made.</h3>
 
 <p align="center">
-  <a href="https://qu4k3.com/" target="_blank"><img src="https://img.shields.io/badge/-qu4k3.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://qu4k3.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/paulguillamon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Qu4k3" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://discord.com/users/147882388347682816" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-I’m a web developer with 10+ years of experience across marketing, SEO, UX/UI design, front-end, and mobile product work. I enjoy turning ideas into useful, well-crafted digital products that balance clarity, performance, and user experience.
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2B-Years%20of%20experience-111827?style=flat-square" alt="10+ years of experience" />
+  <img src="https://img.shields.io/badge/Front--end-Development-2563EB?style=flat-square" alt="Front-end development" />
+  <img src="https://img.shields.io/badge/UX%2FUI-Design-EC1978?style=flat-square" alt="UX/UI Design" />
+  <img src="https://img.shields.io/badge/SEO%2BMarketing-Strategy-5ABE93?style=flat-square" alt="SEO and marketing" />
+</p>
+
+I’m a multidisciplinary front-end developer with 10+ years of experience across front-end development, design, SEO, marketing, and mobile products. I enjoy turning complex ideas into polished, useful digital experiences people can trust.
 
 ## What I do
 
-- Design and build websites, landing pages, dashboards, and product experiences
-- Bridge strategy and execution: marketing, UX, SEO, and front-end development
-- Help teams and businesses turn ideas into polished, maintainable systems
-- Build with a product mindset: clarity, accessibility, usability, and long-term value
+- Build websites, landing pages, product experiences, and front-end systems
+- Combine front-end development, UX, marketing, and content strategy into one coherent workflow
+- Help teams turn ideas into clear, scalable, and conversion-aware digital experiences
+- Care deeply about accessibility, performance, and product quality
 
-## Stack
+## Core stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -33,22 +40,26 @@ I’m a web developer with 10+ years of experience across marketing, SEO, UX/UI 
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Working style
+## My approach
 
-I approach projects with a multidisciplinary lens: design, content, conversion, and code all matter. I care about craft, clean systems, and making digital experiences feel intentional rather than generic.
+I work best on projects where front-end development, design, and strategy come together. I like building products that are not only visually compelling, but also useful, thoughtful, and built to last.
 
-## Projects I appreciate
+## Things I care about
 
-<p align="left">
-  <a href="https://github.com/bitwarden/browser" target="_blank"><img src="https://img.shields.io/badge/-Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=ffffff" alt="Bitwarden" /></a>
-  <a href="https://github.com/directus/directus" target="_blank"><img src="https://img.shields.io/badge/-Directus-263238?style=flat-square&logo=directus&logoColor=ffffff" alt="Directus" /></a>
-  <a href="https://github.com/qbittorrent/qBittorrent" target="_blank"><img src="https://img.shields.io/badge/-qBittorrent-2F67BA?style=flat-square&logo=qBittorrent&logoColor=ffffff" alt="qBittorrent" /></a>
-</p>
+- Product thinking and user experience
+- Clear communication and clean interfaces
+- Sustainable front-end architecture
+- SEO, content quality, and conversion strategy
+- Design systems that feel premium without being noisy
 
-## Let’s connect
+## Selected projects
 
-If you’re building something meaningful, want to collaborate, or just want to say hello, feel free to reach out.
+- Portfolio and personal projects across marketing, branding, and product storytelling
+- Client and team work focused on clarity, usability, and strong visual identity
+- Digital experiences built with a balance of craft, speed, and practical value
 
+## Let’s work together
+
+If you’re building something meaningful, collaborating on a product, or need a front-end developer who understands design and strategy as well as the technical side, I’d love to hear about it.
