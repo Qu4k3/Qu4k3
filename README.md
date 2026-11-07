@@ -19,14 +19,7 @@
   <img src="https://img.shields.io/badge/SEO%2BMarketing-Strategy-5ABE93?style=flat-square" alt="SEO and marketing" />
 </p>
 
-I’m a multidisciplinary front-end developer with 10+ years of experience across front-end development, design, SEO, marketing, and mobile products. I enjoy turning complex ideas into polished, useful digital experiences people can trust.
-
-## What I do
-
-- Build websites, landing pages, product experiences, and front-end systems
-- Combine front-end development, UX, marketing, and content strategy into one coherent workflow
-- Help teams turn ideas into clear, scalable, and conversion-aware digital experiences
-- Care deeply about accessibility, performance, and product quality
+Front-end developer with 10+ years of experience building thoughtful digital products, informed by design, UX, and SEO.
 
 ## Core stack
 
@@ -41,25 +34,3 @@ I’m a multidisciplinary front-end developer with 10+ years of experience acros
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
-
-## My approach
-
-I work best on projects where front-end development, design, and strategy come together. I like building products that are not only visually compelling, but also useful, thoughtful, and built to last.
-
-## Things I care about
-
-- Product thinking and user experience
-- Clear communication and clean interfaces
-- Sustainable front-end architecture
-- SEO, content quality, and conversion strategy
-- Design systems that feel premium without being noisy
-
-## Selected projects
-
-- Portfolio and personal projects across marketing, branding, and product storytelling
-- Client and team work focused on clarity, usability, and strong visual identity
-- Digital experiences built with a balance of craft, speed, and practical value
-
-## Let’s work together
-
-If you’re building something meaningful, collaborating on a product, or need a front-end developer who understands design and strategy as well as the technical side, I’d love to hear about it.
