@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C21360&center=true&vCenter=true&width=900&lines=Hey!+༼ ◕.◕ ༽つ++I'm+Paul+😃😎😋;Designing+useful+digital+products;Front-end+Developer+%7C+Designer+%7C+Product+Builder" alt="Paul Guillamón banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C21360&center=true&vCenter=true&width=900&lines=Designing+useful+digital+products;Front-end+Developer+%7C+Designer+%7C+Product+Builder" alt="Paul Guillamón banner" />
 </div>
 
-<h1 align="center">Paul Guillamón</h1>
+<h1 align="center">Hey! ༼ ◕.◕ ༽つ I'm Paul 😃😎😋</h1>
 <h3 align="center">I design and build digital experiences that are clear, useful, and genuinely well made.</h3>
 
 <p align="center">
